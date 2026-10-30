@@ -238,10 +238,3 @@ Chronological data splitting is used to respect the time ordering of financial o
 
 We acknowledge the researchers and dataset creators whose work supports financial sentiment analysis and stock movement prediction. FinBERT and the TRACE ACL18 dataset are important components of this project.
 
-## Authors
-
-- Roopesh Chalasani
-- Avula Vyshnavi
-- Turlapati Deepthi Anusha
-
-**Institution:** KLEF
